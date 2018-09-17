@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/new">
+        <file>welcomebj.png</file>
+        <file>paly.png</file>
+        <file>mbj.png</file>
+        <file>about.png</file>
+    </qresource>
+    <qresource prefix="/image">
+        <file>about.png</file>
+    </qresource>
+</RCC>
